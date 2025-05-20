@@ -1,0 +1,4 @@
+Project Planning:
+-Collection of Data (Kaggle,MIT,github)
+-Experiments with preprocessing,feature engineering and model selection
+-Start of web app development
